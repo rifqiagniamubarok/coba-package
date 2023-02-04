@@ -32,6 +32,11 @@
     "typescript",
     "awesome-project"
   ],
+  "files": [
+    "dist",
+    "LICENSE",
+    "README.md"
+  ],
   "author": "Rifqi Agnia Mubarok",
   "license": "MIT",
   "devDependencies": {
